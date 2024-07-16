@@ -1,0 +1,7 @@
+path: /path/to/dataset_yolo
+train: dataset.txt
+val: dataset.txt
+test: dataset.txt
+
+names:
+ 0: target
